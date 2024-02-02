@@ -1,0 +1,10 @@
+.red{
+    width: 200px;
+    border: 2px solid red;
+}
+.green{
+    line-height: 5px;
+    width: 300px;
+    border:2px solid rgb(69, 235, 69);
+    background-color: rgb(192, 245, 192);
+}

@@ -1,0 +1,14 @@
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+h4 {
+  color: red;
+  font-weight: bolder;
+}
+ol{
+    color: blue;
+    font-weight: bold;
+}

@@ -1,0 +1,18 @@
+div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border: 3px solid black;
+  width: 500px;
+  height: 400px;
+}
+h4 {
+  color: red;
+  font-weight: bolder;
+}
+ol{
+    color: blue;
+    font-weight: bold;
+    margin-top: 10px;
+}

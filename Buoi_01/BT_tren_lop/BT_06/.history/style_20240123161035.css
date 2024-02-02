@@ -1,0 +1,9 @@
+.cover{
+    width: 1000px;
+    margin: 50px auto;
+    background-color: red;
+    padding: 20px;
+}
+h1{
+    margin-top: -15px;
+}

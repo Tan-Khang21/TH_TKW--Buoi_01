@@ -1,0 +1,15 @@
+.head{
+    width: 1000px;
+    background-color:aqua;
+    margin:0 auto;
+    text-align: center;
+}
+.mid{
+    width: 1000px;
+    margin:0 auto;
+}
+.footer{
+    width: 1000px;
+    margin:0 auto;
+    text-align: center;
+}

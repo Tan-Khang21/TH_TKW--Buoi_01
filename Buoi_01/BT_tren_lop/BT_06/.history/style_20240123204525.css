@@ -1,0 +1,103 @@
+body{
+    box-sizing: border-box;
+}
+.cover{
+    width: 600px;
+    margin: 50px auto;
+    background-color: red;
+    padding: 10px 20px;
+}
+h1{
+    margin-top: -15px;
+    color: white;
+}
+.content{
+    background-color: white;
+    padding: 10px 20px;
+}
+.content h3{
+    color:red;
+    font-weight: bold;
+}
+.Search_product{
+    display: flex;
+    align-items: center;
+}
+.Search_product button{
+    display: flex; 
+    align-items:baseline;
+    font-size: 8px;
+    width: 100px;
+    height: 20px;
+    padding: 3px;
+    background-color: #403c48;
+    color: white;
+}
+.line{
+    width: 1px;
+    height: 25px;
+    background-color: red;
+    margin: 0 5px
+}
+.search{
+    padding:5px;
+    font-size: 10px;
+    border: 1px solid red;
+}
+.submit_input{
+    display: none;
+}
+.submit label{
+    position: relative;
+}
+.submit label::after{
+    content: "";
+    width:25px;
+    height: 23px;
+    background-color: red;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+.buy_now,.buy{
+    padding:2px 15px;
+    background-color: red;
+    border: 2px solid red;
+    border-radius: 5px;
+    color: white;
+    margin-left: 10px;
+}
+.step2{
+    display: flex;
+    align-items: center;
+    margin-top: -10px;
+}
+.step2_list{
+    margin-left: -20px;
+    line-height: 1.5;
+}
+.button_green{
+    color:white;
+    background-color: #00a651;
+    border: 1px solid #00a651;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.buy{
+    padding: 10px 15px;
+    background-color: white;
+    color: red;
+    font-weight: bolder;
+}
+.red_big{
+    padding: 10px 15px;
+    background-color: red;
+    border: 2px solid red;
+    border-radius: 5px;
+    color: white;
+}
+.red{
+    padding: 5px 2px;
+    background-color: red;
+    border: 2px solid red;
+}

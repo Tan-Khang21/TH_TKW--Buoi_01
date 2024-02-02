@@ -1,0 +1,36 @@
+.container{
+    width: 570px;
+    margin:0 auto;
+    box-shadow: 0px 2px 4px 0 black;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.image{
+    width: 400px;
+    margin:0 auto;
+}
+.image img{
+    width: 100%;
+    height:100%;
+    object-fit: contain;
+}
+h6{
+    font-size: 20px;
+    margin-top: -5px;
+    color: gray;
+   
+}
+ul{
+    margin-top: -20px;
+}
+li{
+    color:red;
+}
+p{
+    color:black;
+}
+span{
+    color:red;
+   border-bottom: 2px red dashed;
+   font-weight: bold;
+}
